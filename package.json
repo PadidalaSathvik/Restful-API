@@ -1,0 +1,21 @@
+{
+  "name": "wellness360",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "sathvik",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai-http": "^5.1.1",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
